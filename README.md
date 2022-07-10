@@ -3,7 +3,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/renatogusani/Bsc.-Data-Science">
-    <img src="images/banner.png" alt="Banner">
+    <img src="img/banner.png" alt="Banner">
   </a>
 
   <h3 align="center">Bsc. (Honours) in Data Science</h3>
