@@ -6,10 +6,9 @@
     <img src="img/banner.png" alt="Banner">
   </a>
 
-  <h3 align="center">Bsc. (Honours) in Data Science</h3>
+  <h3 align="center">Bsc. (Honours) in Data Science | NCI</h3>
 
    <p align="center">
-     .
      <br />
      <a href="https://github.com/renatogusani/Bsc.-Data-Science"><strong>Explore the docs »</strong></a>
      <br />
