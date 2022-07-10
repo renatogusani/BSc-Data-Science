@@ -33,9 +33,64 @@
 
 ## Courses
 Year 1 - Semester 1
-- Computational Thinking - `Data Science`
-- The Computing Industry - `Data Science`
-- Problem Solving and Programming Concepts - `Data Science`
-- Discrete Mathematics - `Data Science`
-- Introduction to Data Science - `Data Science`
+- Computational Thinking - `H6CMPTHNK`
+- Discrete Mathematics - `H6DISMTHS`
+- Introduction to Data Science - `H6IDS`
+- Problem Solving and Programming Concepts - `H6PSPC`
+- The Computing Industry - `H6TCI`
 
+Year 1 - Semester 2
+- Computational Thinking - `H6CMPTHNK`
+- Discrete Mathematics - `H6DISMTHS`
+- Introduction to Data Science - `H6IDS`
+- Problem Solving and Programming Concepts - `H6PSPC`
+- The Computing Industry - `H6TCI`
+
+Year 2 - Semester 1
+- Computational Thinking - `H6CMPTHNK`
+- Discrete Mathematics - `H6DISMTHS`
+- Introduction to Data Science - `H6IDS`
+- Problem Solving and Programming Concepts - `H6PSPC`
+- The Computing Industry - `H6TCI`
+
+Year 2 - Semester 2
+- Computational Thinking - `H6CMPTHNK`
+- Discrete Mathematics - `H6DISMTHS`
+- Introduction to Data Science - `H6IDS`
+- Problem Solving and Programming Concepts - `H6PSPC`
+- The Computing Industry - `H6TCI`
+
+Year 1 - Semester 1
+- Computational Thinking - `H6CMPTHNK`
+- Discrete Mathematics - `H6DISMTHS`
+- Introduction to Data Science - `H6IDS`
+- Problem Solving and Programming Concepts - `H6PSPC`
+- The Computing Industry - `H6TCI`
+
+Year 3 - Semester 1
+- Computational Thinking - `H6CMPTHNK`
+- Discrete Mathematics - `H6DISMTHS`
+- Introduction to Data Science - `H6IDS`
+- Problem Solving and Programming Concepts - `H6PSPC`
+- The Computing Industry - `H6TCI`
+
+Year 3 - Semester 2
+- Computational Thinking - `H6CMPTHNK`
+- Discrete Mathematics - `H6DISMTHS`
+- Introduction to Data Science - `H6IDS`
+- Problem Solving and Programming Concepts - `H6PSPC`
+- The Computing Industry - `H6TCI`
+
+Year 4 - Semester 1
+- Computational Thinking - `H6CMPTHNK`
+- Discrete Mathematics - `H6DISMTHS`
+- Introduction to Data Science - `H6IDS`
+- Problem Solving and Programming Concepts - `H6PSPC`
+- The Computing Industry - `H6TCI`
+
+Year 4 - Semester 2
+- Computational Thinking - `H6CMPTHNK`
+- Discrete Mathematics - `H6DISMTHS`
+- Introduction to Data Science - `H6IDS`
+- Problem Solving and Programming Concepts - `H6PSPC`
+- The Computing Industry - `H6TCI`
