@@ -31,20 +31,19 @@
 <img alt="license" src="https://img.shields.io/github/license/renatogusani/Bsc.-Data-Science?logo=Open%20Source%20Initiative&style=plastic">
 </p>
 
-## Courses
-Year 1 - Semester 1
+## Courses - Semester Schedules
+Stage 1 / Semester 1
 - Computational Thinking - `H6CMPTHNK`
 - Discrete Mathematics - `H6DISMTHS`
 - Introduction to Data Science - `H6IDS`
 - Problem Solving and Programming Concepts - `H6PSPC`
 - The Computing Industry - `H6TCI`
 
-Year 1 - Semester 2
-- Computational Thinking - `H6CMPTHNK`
-- Discrete Mathematics - `H6DISMTHS`
-- Introduction to Data Science - `H6IDS`
-- Problem Solving and Programming Concepts - `H6PSPC`
-- The Computing Industry - `H6TCI`
+Stage 1 / Semester 2
+- Computing Systems - `H6COMPSYS`
+- Data Visualisation - `H6IDMD`
+- Introduction to Data Modelling and Databases - `H6PROG1`
+- Programming I - `H6STATS1`
 
 Year 2 - Semester 1
 - Computational Thinking - `H6CMPTHNK`
