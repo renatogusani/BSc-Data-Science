@@ -30,3 +30,34 @@
   
 <img alt="license" src="https://img.shields.io/github/license/renatogusani/Bsc.-Data-Science?logo=Open%20Source%20Initiative&style=plastic">
 </p>
+
+## Courses
+- `Data Science`.
+- `Data Science`.
+- `Data Science`.
+- `Data Science`.
+
+- `Data Science`.
+- `Data Science`.
+- `Data Science`.
+- `Data Science`.
+
+- `Data Science`.
+- `Data Science`.
+- `Data Science`.
+- `Data Science`.
+
+- `Data Science`.
+- `Data Science`.
+- `Data Science`.
+- `Data Science`.
+
+- `Data Science`.
+- `Data Science`.
+- `Data Science`.
+- `Data Science`.
+
+- `Data Science`.
+- `Data Science`.
+- `Data Science`.
+- `Data Science`.
