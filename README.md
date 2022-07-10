@@ -33,33 +33,9 @@
 
 ## Courses
 Year 1 - Semester 1
-- Computational Thinking `Data Science`.
-- The Computing Industry `Data Science`.
-- Problem Solving and Programming Concepts `Data Science`.
-- Discrete Mathematics `Data Science`.
-- Introduction to Data Science `Data Science`.
+- Computational Thinking - `Data Science`
+- The Computing Industry - `Data Science`
+- Problem Solving and Programming Concepts - `Data Science`
+- Discrete Mathematics - `Data Science`
+- Introduction to Data Science - `Data Science`
 
-- `Data Science`.
-- `Data Science`.
-- `Data Science`.
-- `Data Science`.
-
-- `Data Science`.
-- `Data Science`.
-- `Data Science`.
-- `Data Science`.
-
-- `Data Science`.
-- `Data Science`.
-- `Data Science`.
-- `Data Science`.
-
-- `Data Science`.
-- `Data Science`.
-- `Data Science`.
-- `Data Science`.
-
-- `Data Science`.
-- `Data Science`.
-- `Data Science`.
-- `Data Science`.
