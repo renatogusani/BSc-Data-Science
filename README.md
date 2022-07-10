@@ -34,10 +34,10 @@
 ## Courses - Semester Schedules
 Stage 1 / Semester 1
 - Computational Thinking - [`H6CMPTHNK`](http://courses.ncirl.ie/index.cfm/page/module/moduleId/67603)
-- Discrete Mathematics - `H6DISMTHS`
-- Introduction to Data Science - `H6IDS`
-- Problem Solving and Programming Concepts - `H6PSPC`
-- The Computing Industry - `H6TCI`
+- Discrete Mathematics - [`H6DISMTHS`](http://courses.ncirl.ie/index.cfm/page/module/moduleId/67597)
+- Introduction to Data Science - [`H6IDS`](http://courses.ncirl.ie/index.cfm/page/module/moduleId/67264)
+- Problem Solving and Programming Concepts - [`H6PSPC`](http://courses.ncirl.ie/index.cfm/page/module/moduleId/67164)
+- The Computing Industry - [`H6TCI](http://courses.ncirl.ie/index.cfm/page/module/moduleId/67162)
 
 Stage 1 / Semester 2
 - Computing Systems - `H6COMPSYS`
